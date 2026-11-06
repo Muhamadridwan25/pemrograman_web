@@ -1,0 +1,12 @@
+{
+  "name": "kulinerku",
+  "version": "1.0.0",
+  "description": "Website pemesanan makanan sederhana untuk proyek Pemrograman Web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
